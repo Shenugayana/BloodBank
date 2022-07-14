@@ -14,7 +14,7 @@ This is a BloodBank Management System
 - CRUD Donor Details
 - CRUD Patient Details
 - Desktop Application
-- Developed Uing: Java, Netbeans
+- Developed using: Java, Netbeans
 - Database: SQL, SSMS
 - Light Themed
 
