@@ -20,3 +20,5 @@ Welcome to the Java Blood Bank Management Application! This desktop application 
 - **Database Integration:** Utilizes SQL Server Management Studio (SSMS) for backend database management, ensuring data integrity and efficient data storage.
 
 - **Light Theme:** The application features a light-themed user interface, providing a clean and visually appealing experience for users.
+
+Happy coding!
